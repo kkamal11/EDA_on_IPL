@@ -13,4 +13,5 @@ The Python packages that I have used in this notebook are:
 <div align="center">
 <img src="ipl.webp" width="500px" />
 </div>
----
+<hr>
+<h4>Analysis covered in this project :</h4>
