@@ -14,9 +14,9 @@ The Python packages that I have used in this notebook are:
 <img src="ipl.webp" width="500px" />
 </div>
 <hr>
-<h3>Analysis covered in this project :</h3>
-- Number of matches played till now.
-- Number of IPL seasons
+<h3>Analysis covered in this project:</h3>
+* Number of matches played till now.
+* Number of IPL seasons
 - Number of matches played in each season
 - Maximum and minimum matches in a season
 - Number of matches won by each team
