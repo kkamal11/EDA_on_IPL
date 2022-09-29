@@ -1,2 +1,2 @@
 # EDA_on_IPL
-<img src="" />
+<img src="ipl.webp" />
