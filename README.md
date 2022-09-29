@@ -7,7 +7,7 @@ The Python packages that I have used in this notebook are:
 - **Pandas**: <i>For data processing and file input/output</i>
 - **Matplotlib**: <i>For data visualization</i>
 - **Seaborn**: <i>For modern and statistical visualization</i>
-
-<img align="center" src="ipl.webp" width="500px" />
-
+<div align="center">
+<img src="ipl.webp" width="500px" />
+</div>
 ---
