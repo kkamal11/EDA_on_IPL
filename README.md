@@ -15,18 +15,20 @@ The Python packages that I have used in this notebook are:
 </div>
 <hr>
 <h3>Analysis covered in this project:</h3>
-* Number of matches played till now.
-* Number of IPL seasons
-- Number of matches played in each season
-- Maximum and minimum matches in a season
-- Number of matches won by each team
-- Number of finals won by a team
-- Number of stadiums where IPL matches have been conducted 
-- Number of matches played in each stadium
-- Top 10 stadiums with maximum matches held
-- Inference and consequences of almost 60% matches being conducted in only 10 stadiums
-- Decision made after winning the toss - bat or field
-- Has Toss-winning helped in Match-winning?
-- Toss decision vs win/loss analysis
-- Top 15 player of the match winners
-- Umpires who have umpired in maximum matches
+<ol>
+    <li> Number of matches played till now.</li>
+    <li> Number of IPL seasons.</li>
+    <li> Number of matches played in each season.</li>
+    <li> Maximum and minimum matches in a season.</li>
+    <li> Number of matches won by each team.</li>
+    <li> Number of finals won by a team.</li>
+    <li> Number of stadiums where IPL matches have been conducted.</li> 
+    <li> Number of matches played in each stadium.</li>
+    <li> Top 10 stadiums with maximum matches held.</li>
+    <li> Inference and consequences of almost 60% matches being conducted in only 10 stadiums.</li>
+    <li> Decision made after winning the toss - bat or field.</li>
+    <li> Has Toss-winning helped in Match-winning?</li>
+    <li> Toss decision vs win/loss analysis.</li>
+    <li> Top 15 player of the match winners.</li>
+    <li> Umpires who have umpired in maximum matches.</li>
+</ol>
