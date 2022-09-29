@@ -1,6 +1,6 @@
 <center>
   <h2 align="center">Indian Premium League: <b>Exploratory data analysis (EDA)</b></h2>
-  <p>A Data Analysis and Visualization Project using Python</p>
+  <p align="center">A Data Analysis and Visualization Project using Python</p>
 </center>
 
 In this project, I have done exploratory data analysis on IPL matches where I have tried to answer a few questions and find some insights using the available data. The dataset that I have used in this notebook is IPL (Indian Premier League) dataset posted on [Kaggle](https://www.kaggle.com/) Datasets sourced from [cricsheet](https://cricsheet.org/). The dataset has information about IPL matches from 2008 to 2022.
