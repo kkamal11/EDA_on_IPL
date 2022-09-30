@@ -32,3 +32,7 @@ The Python packages that I have used in this notebook are:
     <li> Top 15 player of the match winners.</li>
     <li> Umpires who have umpired in maximum matches.</li>
 </ol>
+
+<div align='center'>
+  <a href='https://github.com/kkamal11/EDA_on_IPL/blob/main/IPL_data_EDA_and_VISUALIZATION.ipynb' target='_blank'>Google Colab</a>
+</div>
