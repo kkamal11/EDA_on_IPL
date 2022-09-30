@@ -10,10 +10,10 @@ The Python packages that I have used in this notebook are:
 - **Pandas**: <i>For data processing and file input/output</i>
 - **Matplotlib**: <i>For data visualization</i>
 - **Seaborn**: <i>For modern and statistical visualization</i>
-<div align="center">
+<figure align="center">
   <img src="ipl.webp" width="500px" />
    <figcaption>Image source: iplt20.com</figcaption>
-</div>
+</figure>
 <hr>
 <h3>Analysis covered in this project:</h3>
 <ol>
