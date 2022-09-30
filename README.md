@@ -11,7 +11,8 @@ The Python packages that I have used in this notebook are:
 - **Matplotlib**: <i>For data visualization</i>
 - **Seaborn**: <i>For modern and statistical visualization</i>
 <div align="center">
-<img src="ipl.webp" width="500px" />
+  <img src="ipl.webp" width="500px" />
+   <figcaption>Image source: iplt20.com</figcaption>
 </div>
 <hr>
 <h3>Analysis covered in this project:</h3>
