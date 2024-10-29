@@ -1,5 +1,6 @@
 <center>
   <h2 align="center">Indian Premium League: <b>Exploratory data analysis (EDA)</b></h2>
+  <h3 align="center">Uncovering IPL Insights: A Data-Driven Analysis of 15 Years of Cricket</h3>
   <p align="center">A Data Analysis and Visualization Project using Python</p>
 </center>
 
