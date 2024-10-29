@@ -5,6 +5,8 @@
 
 In this project, I have done exploratory data analysis on IPL matches where I have tried to answer a few questions and find some insights using the available data. The dataset that I have used in this notebook is IPL (Indian Premier League) dataset posted on [Kaggle](https://www.kaggle.com/) Datasets sourced from [cricsheet](https://cricsheet.org/). The dataset has information about IPL matches from 2008 to 2022.
 
+[![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/kkamal11/EDA_on_IPL/blob/main/IPL_data_EDA_and_VISUALIZATION.ipynb)
+
 The Python packages that I have used in this notebook are:
 - **NumPy**: <i>For numerical computations</i>
 - **Pandas**: <i>For data processing and file input/output</i>
